@@ -1,0 +1,12 @@
+Started on Aug 5, 2020, 12:24:00 AM
+Using strategy: Default
+[poll] Last Built Revision: Revision cdab1193bb35939c62e5726782b4c4b43cd82246 (refs/remotes/origin/master)
+using credential 05a52534-1dcb-4f29-ace8-9ff5d8d8df8a
+ > git --version # timeout=10
+ > git --version # 'git version 2.21.1 (Apple Git-122.3)'
+using GIT_ASKPASS to set credentials My GitHub Credentials
+ > git ls-remote -h -- https://github.com/tec1/ez-vz-sfdc.git # timeout=10
+Found 3 remote heads on https://github.com/tec1/ez-vz-sfdc.git
+[poll] Latest remote head revision on refs/heads/master is: a032752bf0624ede0d8165a0438be4fa192cb937
+Done. Took 0.46 sec
+Changes found

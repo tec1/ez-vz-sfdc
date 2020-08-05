@@ -1,0 +1,32 @@
+Started by user [8mha:////4G1chVTFUXH+4bqnm/1NEmLLlUtrJT1393X+Am27ddSVAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzBEgYu/dLi1CL91KLMZACPesQ8vwAAAA==[0mEric Christiansen
+Running as SYSTEM
+Building in workspace /Users/Shared/Jenkins/Home/workspace/HelloDemo
+using credential 05a52534-1dcb-4f29-ace8-9ff5d8d8df8a
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/tec1/ez-vz-sfdc.git # timeout=10
+Fetching upstream changes from https://github.com/tec1/ez-vz-sfdc.git
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials My GitHub Credentials
+ > git fetch --tags --force --progress -- https://github.com/tec1/ez-vz-sfdc.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision cdab1193bb35939c62e5726782b4c4b43cd82246 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f cdab1193bb35939c62e5726782b4c4b43cd82246 # timeout=10
+Commit message: "Added a file."
+ > git rev-list --no-walk cdab1193bb35939c62e5726782b4c4b43cd82246 # timeout=10
+[HelloDemo] $ /bin/sh -xe /Users/Shared/Jenkins/tmp/jenkins12927547038821232304.sh
++ cd /Users/eric/Development/GitHub/demo1/src
++ ls -la com/vz
+total 16
+drwxrwxrwx  4 eric     staff  128 Aug  3 01:53 .
+drwxrwxrwx  3 eric     staff   96 Aug  2 23:45 ..
+-rw-r--r--  1 jenkins  staff  414 Aug  3 01:53 Hello.class
+-rw-r--r--  1 eric     staff  128 Aug  2 23:44 Hello.java
++ which javac
+/usr/bin/javac
++ javac com/vz/Hello.java
++ java com/vz/Hello
+Hi.
+Finished: SUCCESS

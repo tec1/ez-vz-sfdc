@@ -1,0 +1,9 @@
+Started by timer
+Running as SYSTEM
+Building in workspace /Users/Shared/Jenkins/Home/workspace/Test1
+[Test1] $ /bin/sh -xe /Users/Shared/Jenkins/tmp/jenkins2361816874039209408.sh
++ pwd
+/Users/Shared/Jenkins/Home/workspace/Test1
++ date
+Sun Aug  2 23:13:00 EDT 2020
+Finished: SUCCESS

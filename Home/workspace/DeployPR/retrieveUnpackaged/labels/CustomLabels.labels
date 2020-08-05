@@ -1,0 +1,2546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>ForCommunityAssistance</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>For community assistance with Milestones PM, please visit &lt;a href=&quot;http://succes</shortDescription>
+        <value>For community assistance with Milestones PM, please visit &lt;a href=&quot;http://success.salesforce.com/answers&quot;&gt;Salesforce Answers&lt;/a&gt;.</value>
+    </labels>
+    <labels>
+        <fullName>GlobalIT</fullName>
+        <categories>GlobalIT</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>GlobalIT</shortDescription>
+        <value>Your Global Information Technology Portal</value>
+    </labels>
+    <labels>
+        <fullName>No</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No</shortDescription>
+        <value>No</value>
+    </labels>
+    <labels>
+        <fullName>Yes</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Yes</shortDescription>
+        <value>Yes</value>
+    </labels>
+    <labels>
+        <fullName>renGreen</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>renGreen</shortDescription>
+        <value>30</value>
+    </labels>
+    <labels>
+        <fullName>renOrange</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>For Orange Tab In Renewal</shortDescription>
+        <value>14</value>
+    </labels>
+    <labels>
+        <fullName>renRed</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>For Red Tab In Renewal</shortDescription>
+        <value>7</value>
+    </labels>
+    <labels>
+        <fullName>renYellow</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>For Yellow Tab In Renewal</shortDescription>
+        <value>21</value>
+    </labels>
+    <labels>
+        <fullName>survey_I_don_t_know</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey I don&apos;t know</shortDescription>
+        <value>Don&apos;t Know</value>
+    </labels>
+    <labels>
+        <fullName>survey_I_don_t_know_no_opinion</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey I don&apos;t know / no opinion</shortDescription>
+        <value>Don&apos;t Know / No Opinion</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_confirm</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs confirm</shortDescription>
+        <value>Please confirm that you want to unsubscribe.</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_email_click</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs email click</shortDescription>
+        <value>Click to</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_email_dear</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs email dear</shortDescription>
+        <value>Dear</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_email_here</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs email here</shortDescription>
+        <value>here</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_email_hi</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs email hi</shortDescription>
+        <value>Hi</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_email_opt_out</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs email opt out</shortDescription>
+        <value>If you do not wish to receive support surveys from Verizon Connect, please click</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_email_p1</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs email p1</shortDescription>
+        <value>At Verizon Connect, satisfying our customers is essential to how we do things. Therefore, we are asking for your feedback about your recent interaction with</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_email_p1a</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs email p1a</shortDescription>
+        <value>, from case</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_email_p1b</fullName>
+        <categories>email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs email p1b</shortDescription>
+        <value>. Your feedback is a very important part of our continuous improvement initiative.</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_email_p2</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs email p2</shortDescription>
+        <value>Please take a moment to share your recent experience with</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_email_p2_click</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs email p2 click</shortDescription>
+        <value>P2 CLICK</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_email_p2a</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs email p2a</shortDescription>
+        <value>by completing the following Survey.</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_email_rs_p1</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs email rs p1</shortDescription>
+        <value>We apologize, but the survey link we sent earlier was not fully functional. It has been corrected and is now fully operational. We hope to hear from you.</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_email_share</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs email share</shortDescription>
+        <value>share your experience!</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_email_subj</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs email subj</shortDescription>
+        <value>Verizon Connect Customer Service Survey</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_email_team</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs email team</shortDescription>
+        <value>Your Verizon Connect Customer Service Team</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_email_thanks</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs email thanks</shortDescription>
+        <value>Thank you in advance for your participation.</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_email_url</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs email url</shortDescription>
+        <value>http://fleetmatics.force.com/vztsupportsurvey?sid=</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_err1</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs err1</shortDescription>
+        <value>Required question, cannot be left unanswered.</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_intro</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs intro</shortDescription>
+        <value>This survey pertains to the customer service case {0} you have recently submitted to us.</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_optout</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs opt out</shortDescription>
+        <value>You have been unsubscribed from the survey.</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_q1</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs q1</shortDescription>
+        <value>Do you consider the issue resolved?</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_q2</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs q2</shortDescription>
+        <value>Please rate your satisfaction with the following aspects of your customer service case.</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_q2a</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs q2a</shortDescription>
+        <value>Overall experience.</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_q2b</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs q2b</shortDescription>
+        <value>Issue resolution.</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_q2c</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs q2c</shortDescription>
+        <value>Knowledge of Customer Service personnel.</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_q2d</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs q2d</shortDescription>
+        <value>Responsiveness of Customer Service personnel.</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_q3</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs q3</shortDescription>
+        <value>Please indicate your level of agreement with the following statements.</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_q3_r0</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs q3 r0</shortDescription>
+        <value>Strongly&lt;br/&gt;Disagree&lt;br/&gt;0</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_q3_r1</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs q3 r1</shortDescription>
+        <value>1</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_q3_r10</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs q3 r10</shortDescription>
+        <value>Strongly&lt;br/&gt;Agree&lt;br/&gt;10</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_q3a</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs q3a</shortDescription>
+        <value>The service visit scheduling met my needs.</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_q3b</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs q3b</shortDescription>
+        <value>The technician arrived at the scheduled time.</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_q3c</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs q3c</shortDescription>
+        <value>The technician had a professional attitude.</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_q4</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs q4</shortDescription>
+        <value>Please provide any additional comments regarding your recently closed case number {0}.</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_q5a</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs q5a</shortDescription>
+        <value>How likely is it that you would recommend Verizon Connect to a friend or colleague?</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_q5b</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs q5b</shortDescription>
+        <value>What is the main reason for your rating?</value>
+    </labels>
+    <labels>
+        <fullName>survey_cs_title</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs title</shortDescription>
+        <value>Verizon Connect Customer Care Resolution Survey</value>
+    </labels>
+    <labels>
+        <fullName>survey_email_at</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>at (some place)</shortDescription>
+        <value>at</value>
+    </labels>
+    <labels>
+        <fullName>survey_email_best</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey email best</shortDescription>
+        <value>Best</value>
+    </labels>
+    <labels>
+        <fullName>survey_email_dear</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey email dear</shortDescription>
+        <value>Dear</value>
+    </labels>
+    <labels>
+        <fullName>survey_email_hello</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey email hello</shortDescription>
+        <value>Hello</value>
+    </labels>
+    <labels>
+        <fullName>survey_email_valued_customer</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey email valued customer</shortDescription>
+        <value>Valued Customer</value>
+    </labels>
+    <labels>
+        <fullName>survey_email_very</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey email very</shortDescription>
+        <value>very</value>
+    </labels>
+    <labels>
+        <fullName>survey_email_your_survey</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey email your survey</shortDescription>
+        <value>your survey</value>
+    </labels>
+    <labels>
+        <fullName>survey_not_applicable</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey not applicable</shortDescription>
+        <value>N/A</value>
+    </labels>
+    <labels>
+        <fullName>survey_notify_p1</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey notify p1</shortDescription>
+        <value>The following survey has been completed:</value>
+    </labels>
+    <labels>
+        <fullName>survey_notify_p2</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey notify p2</shortDescription>
+        <value>Survey Questions:</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_email_p1a</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm email p1a</shortDescription>
+        <value>We are conducting a survey regarding the GPS deployment project</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_email_p1b</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm email p1b</shortDescription>
+        <value>and your experience. Your response is greatly appreciated.</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_email_p2</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm email p2</shortDescription>
+        <value>The survey is only 7 questions with a 1-5 ranking and any comments you choose to add. Your additional comments are greatly appreciated.</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_email_p3</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm email p3</shortDescription>
+        <value>Here is a link to the survey:</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_email_p4</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm email p4</shortDescription>
+        <value>This link is uniquely tied to this survey and your email address. Please do not forward this message.</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_email_p5</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm email p5</shortDescription>
+        <value>Your feedback is very important to us in our efforts to continuously improve our offering and services. The feedback is used as both a coaching tool (if needed) as well as a way to recognize and reward positive performance.</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_email_p6</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm email p6</shortDescription>
+        <value>Should you have any questions or difficulty completing this survey, please reach out to your project leader for assistance.</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_email_r1_p1</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm email r1 p1</shortDescription>
+        <value>This is a friendly reminder to complete this survey (link below) at your earliest convenience. Your feedback is extremely important and greatly appreciated!</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_email_r2_p1a</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm email r2 p1a</shortDescription>
+        <value>Please complete this survey at your earliest convenience. Ultimately, this is a BIG part of</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_email_r2_p1b</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm email r2 p1b</shortDescription>
+        <value>’s compensation structure so it’s absolutely critical that you complete it at your earliest convenience.</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_email_signature</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm email signature</shortDescription>
+        <value>Manager, Strategic Account Services</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_email_subj</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm email subj</shortDescription>
+        <value>Verizon Connect GPS deployment experience</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_email_thanks</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm email thanks</shortDescription>
+        <value>Thanks in advance for your participation!</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_err1</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm err1</shortDescription>
+        <value>(Please make sure all questions have answers, thanks.)</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_err2</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm err2</shortDescription>
+        <value>(answer missing)</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_intro</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm intro</shortDescription>
+        <value>Please answer the following questions using a scale of 1-5.&lt;br/&gt;&lt;br/&gt;5 means you are extremely satisfied, 1 means you are extremely dissatisfied.&lt;br/&gt;</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_intro_1</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm intro</shortDescription>
+        <value>Please answer the following questions using a scale of 1-5.</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_intro_2</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm intro</shortDescription>
+        <value>5 means you are extremely satisfied, 1 means you are extremely dissatisfied.</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_link</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm link</shortDescription>
+        <value>http://fleetmatics.force.com/pmsurvey?sid=</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_link_label</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm link label</shortDescription>
+        <value>your link</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_q0</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm q0</shortDescription>
+        <value>How would you rate the project planning and kickoff call/meeting?</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_q1</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm q1</shortDescription>
+        <value>How would you rate the vehicle GPS hardware installation experience?</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_q2</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm q2</shortDescription>
+        <value>How would you rate the software configuration and setup?</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_q3</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm q3</shortDescription>
+        <value>How would you rate the setup of your integration(s). (WFM, Fuel, etc)?</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_q4</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm q4</shortDescription>
+        <value>How would you rate your software product training(s)?</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_q5</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm q5</shortDescription>
+        <value>How would you rate the overall communication from your project leader?</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_q6</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm q6</shortDescription>
+        <value>How would you rate the project wrap-up and closure?</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_q7</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm q7</shortDescription>
+        <value>Are there any additional comments or recommendations that you would like to share regarding your overall experience?</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_q_comment</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm q comment</shortDescription>
+        <value>Additional comments?</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_title</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm title</shortDescription>
+        <value>Satisfaction Survey</value>
+    </labels>
+    <labels>
+        <fullName>survey_pm_ty</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey pm ty</shortDescription>
+        <value>Thank you for completing the survey. Your feedback is greatly appreciated.</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_email_link_label</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_email_link_label</shortDescription>
+        <value>your link</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_email_link_labelsurvey_sa_email_link_label</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_email_link_label</shortDescription>
+        <value>your link</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_email_p1a</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_email_p1a</shortDescription>
+        <value>We are conducting a satisfaction survey regarding our Strategic Accounts projects</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_email_p1b</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_email_p1b</shortDescription>
+        <value>and your experience. Your response is greatly appreciated.</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_email_p2</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_email_p2</shortDescription>
+        <value>The survey is only 5 questions with a 1-5 ranking and any comments you choose to add. Your additional comments are greatly appreciated.</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_email_p3</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_email_p3</shortDescription>
+        <value>Here is a link to the survey:</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_email_p4</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_email_p4</shortDescription>
+        <value>This link is uniquely tied to this survey and your email address. Please do not forward this message.</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_email_p5</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_email_p5</shortDescription>
+        <value>Your feedback is very important to us in our efforts to continuously improve our offering and services. The feedback is used as both a coaching tool (if needed) as well as a way to recognize and reward positive performance.</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_email_p6</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_email_p6</shortDescription>
+        <value>Should you have any questions or difficulty completing this survey, please reach out to your project leader for assistance.</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_email_r1_p1</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_email_r1_p1</shortDescription>
+        <value>This is a friendly reminder to complete this survey (link below) at your earliest convenience. Your feedback is extremely important and greatly appreciated!</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_email_r2_p1a</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_email_r2_p1a</shortDescription>
+        <value>Please complete this survey at your earliest convenience. Ultimately, this is a BIG part of</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_email_r2_p1b</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_email_r2_p1b</shortDescription>
+        <value>’s compensation structure so it’s absolutely critical that you complete it at your earliest convenience.</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_email_signature</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_email_signature</shortDescription>
+        <value>Manager, Strategic Account Services</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_email_subj</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_email_subj</shortDescription>
+        <value>Verizon Connect Satisfaction Survey</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_email_thanks</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_email_thanks</shortDescription>
+        <value>Thanks in advance for your participation!</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_info1</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_info1</shortDescription>
+        <value>Client Name / Division</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_info2</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_info2</shortDescription>
+        <value>Client Sponsor/PM</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_info3</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_info3</shortDescription>
+        <value>Engagement Start Date</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_info4</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_info4</shortDescription>
+        <value>On a scale of 1-5, how would you rate the overall project experience and value provided by your Project Leader?</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_info5</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_info5</shortDescription>
+        <value>Verizon Connect Resource</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_info6</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_info6</shortDescription>
+        <value>Date</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_intro1</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_intro1</shortDescription>
+        <value>Please answer the following questions using a scale of 1-5.</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_intro2</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_intro2</shortDescription>
+        <value>5 means you are extremely satisfied, 1 means you are extremely dissatisfied.</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_q0</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_q0</shortDescription>
+        <value>On a scale of 1-5, how would you rate the project planning and overall communication from your Project Leader?</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_q1</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_q1</shortDescription>
+        <value>On a scale of 1-5, how would you rate the overall responsiveness to your issues or questions from your Project Leader?</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_q2</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_q2</shortDescription>
+        <value>On a scale of 1-5, how would you rate the recommended best practices/product knowledge of your Project Leader? (i.e. reports, dashboards, alerts)</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_q3</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_q3</shortDescription>
+        <value>On a scale of 1-5, how would you rate your training experience and/or configuration and setup of your account? (i.e. groups, users, roles - if applicable)</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_q4</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_q4</shortDescription>
+        <value>On a scale of 1-5, how would you rate the overall project experience and value provided by your Project Leader?</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_q5</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_q5</shortDescription>
+        <value>Are there any other comments or feedback you’d like to share regarding your experience with this project?</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_q_comment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_q_comment</shortDescription>
+        <value>Additional Comments?</value>
+    </labels>
+    <labels>
+        <fullName>survey_sa_title</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_sa_title</shortDescription>
+        <value>Satisfaction Survey</value>
+    </labels>
+    <labels>
+        <fullName>survey_str_info3</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_str_info3</shortDescription>
+        <value>Engagement Start Date</value>
+    </labels>
+    <labels>
+        <fullName>survey_strategic_account_ty</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_strategic_account_ty</shortDescription>
+        <value>Thank you for completing the survey. Your feedback is greatly appreciated.</value>
+    </labels>
+    <labels>
+        <fullName>survey_submit</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey submit</shortDescription>
+        <value>Submit</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_email_best</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_email_best</shortDescription>
+        <value>Best regards,</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_email_link_label</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_email_link_label</shortDescription>
+        <value>Training Survey</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_email_p1a</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_email_p1a</shortDescription>
+        <value>We are conducting a satisfaction survey regarding our Training</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_email_p1b</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_email_p1b</shortDescription>
+        <value>and your experience. Your response is greatly appreciated.</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_email_p2</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_email_p2</shortDescription>
+        <value>The survey is only a few questions with a 0-10 ranking and any comments you choose to add. Your additional comments are greatly appreciated.</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_email_p3</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_email_p3</shortDescription>
+        <value>Here is a link to the survey:</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_email_p4</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_email_p4</shortDescription>
+        <value>This link is uniquely tied to this survey and your email address. Please do not forward this message.</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_email_p5</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_email_p5</shortDescription>
+        <value>Your feedback is very important to us in our efforts to continuously improve our offering and services. The feedback is used as both a coaching tool (if needed) as well as a way to recognize and reward positive performance.</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_email_p6</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_email_p6</shortDescription>
+        <value>Should you have any questions or difficulty completing this survey, please reach out to your Trainer for assistance.</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_email_r1_p1</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_email_r1_p1</shortDescription>
+        <value>This is a friendly reminder to complete this survey (link below) at your earliest convenience. Your feedback is extremely important and greatly appreciated!</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_email_r2_p1a</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_email_r2_p1a</shortDescription>
+        <value>Please complete this survey (link below) at your earliest convenience. Your feedback is extremely important and greatly appreciated.</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_email_r2_p1b</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_email_r2_p1b</shortDescription>
+        <value>Ultimately this is both part of your trainer’s evaluation as well as direct input on your training experience to let us know if we met your expectations.</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_email_signature</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_email_signature</shortDescription>
+        <value>Verizon Connect Training Management</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_email_subj</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_email_subj</shortDescription>
+        <value>Verizon Connect Training Satisfaction Survey</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_email_thanks</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_email_thanks</shortDescription>
+        <value>Thanks in advance for your participation!</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_info1</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_info1</shortDescription>
+        <value>Account</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_info2</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_info2</shortDescription>
+        <value>Contact</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_info3</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_info3</shortDescription>
+        <value>Training Completed Date</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_info5</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_info5</shortDescription>
+        <value>Trainer</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_info6</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_info6</shortDescription>
+        <value>Date</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_intro1</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_intro1</shortDescription>
+        <value>Please answer the following questions using a scale of 1-5.</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_intro2</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_intro2</shortDescription>
+        <value>5 means you are extremely satisfied, 1 means you are extremely dissatisfied.</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_q0</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_q0</shortDescription>
+        <value>Please rate your overall training experience and value provided</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_q1</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_q1</shortDescription>
+        <value>Was your training session informative and easy to follow?</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_q2</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_q2</shortDescription>
+        <value>Was the Trainer knowledgeable and able to address any questions?</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_q3</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_q3</shortDescription>
+        <value>Please rate the overall communication and responsiveness from your Trainer.</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_q4</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_q4</shortDescription>
+        <value>Did the training session meet your expectations?</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_q5</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_q5</shortDescription>
+        <value>Are there any other comments or feedback you’d like to share regarding your experience with this project?</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_q_comment</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_q_comment</shortDescription>
+        <value>Additional Comments?</value>
+    </labels>
+    <labels>
+        <fullName>survey_tr_title</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_tr_title</shortDescription>
+        <value>Satisfaction Survey</value>
+    </labels>
+    <labels>
+        <fullName>survey_training_ty</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey_training_ty</shortDescription>
+        <value>Thank you for completing the survey. Your feedback is greatly appreciated.</value>
+    </labels>
+    <labels>
+        <fullName>survey_unsubscribe</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey unsubscribe</shortDescription>
+        <value>Unsubscribe</value>
+    </labels>
+    <labels>
+        <fullName>survey_url_homepage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Company Homepage</shortDescription>
+        <value>http://www.verizonconnect.com</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_inst_1a</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz inst 1a</shortDescription>
+        <value>Which of the following areas could the Scheduling representative have done better in?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_inst_1b</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz inst 1b</shortDescription>
+        <value>Please provide any additional feedback we may find insightful.</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_inst_1c</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz inst 1c</shortDescription>
+        <value>What was the best part of working with the Scheduling representative that lead you to give this rating?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_inst_2</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz inst 2</shortDescription>
+        <value>On a scale of 0-10, how satisfied were you with;</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_inst_2a</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz inst 2a</shortDescription>
+        <value>Time from order to completed install?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_inst_2b</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz inst 2b</shortDescription>
+        <value>Scheduling a date/time that worked for your business for install?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_inst_2c</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz inst 2c</shortDescription>
+        <value>Receiving all necessary equipment required prior to install?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_inst_3</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz inst 3</shortDescription>
+        <value>How would you rate your overall satisfaction with the technician that serviced your vehicles?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_inst_3a</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz inst 3a</shortDescription>
+        <value>Please provide additional feedback we may find insightful.</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_inst_address</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz inst address</shortDescription>
+        <value>Installation Address:</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_inst_completed</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz inst completed</shortDescription>
+        <value>Installation Completed:</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_inst_date</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz inst date</shortDescription>
+        <value>This survey pertains to the vehicle tracking installations which occurred for your recent order placed on:</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_inst_intro</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz inst intro</shortDescription>
+        <value>In an effort to improve our service to you, our customer, we&apos;d like to get your feedback on a few brief questions. These questions should take no more than a few minutes, and your feedback is truly invaluable to our ability to serve you.</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_inst_q1</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz inst q1</shortDescription>
+        <value>How would you rate your overall satisfaction with the Scheduling representative you spoke with?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_inst_title</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz inst title</shortDescription>
+        <value>Installation Experience Survey</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_sup_1a</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz inst 1a</shortDescription>
+        <value>Which of the following areas could the Customer Support representative done better in?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_sup_1b</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz sup 1b</shortDescription>
+        <value>Please provide any additional feedback we may find insightful?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_sup_1c</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz sup 1c</shortDescription>
+        <value>What was the best part of the Customer Support representative&apos;s phone call that lead you to give this rating?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_sup_2</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz sup 2</shortDescription>
+        <value>On a scale of 0-10, how satisfied were you with;</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_sup_2a</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz sup 2a</shortDescription>
+        <value>The response time to your Customer Support inquiry?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_sup_2b</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz sup 2b</shortDescription>
+        <value>The process for getting your concerns resolved?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_sup_3</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz sup 3</shortDescription>
+        <value>Do you consider your issue resolved?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_sup_4a</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz sup 4a</shortDescription>
+        <value>Did</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_sup_4b</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz sup 4b</shortDescription>
+        <value>send a technician to your site to resolve the issue?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_sup_5</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz sup 5</shortDescription>
+        <value>How would you rate your overall satisfaction with the technician?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_sup_5a</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz sup 5a</shortDescription>
+        <value>Thinking about your recent technician visit, what could have been done to provide you with a better experience?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_sup_5b</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz sup 5b</shortDescription>
+        <value>What was the best part of your technician&apos;s visit that lead you to give them this rating?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_sup_fleetmatics</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz sup fleetmatics</shortDescription>
+        <value>Verizon Connect</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_sup_intro</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz sup intro</shortDescription>
+        <value>We&apos;d like your feedback pertaining to the customer service case you recently opened with us. Please complete this brief survey. Your feedback is truly invaluable in our ability to serve you.</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_sup_q1</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz sup q1</shortDescription>
+        <value>How would you rate your overall satisfaction with the Customer Support representative you spoke with?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_sup_title</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz sup title</shortDescription>
+        <value>Support Survey</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_support_intro</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz support intro</shortDescription>
+        <value>We&apos;d like your feedback pertaining to the customer service case you recently opened with us. Please complete this short, six question survey. Your feedback is truly invaluable in our ability to serve you.</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_support_q1</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz q1</shortDescription>
+        <value>On a scale of 0-10, please rate your overall satisfaction with your customer service experience.</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_support_q1_r0</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz q1 r0</shortDescription>
+        <value>Not at all satisfied</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_support_q1_r10</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz q1 r10</shortDescription>
+        <value>Extremely Satisfied</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_support_q2</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz q2</shortDescription>
+        <value>Do you consider your issue resolved?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_support_q3</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz q3</shortDescription>
+        <value>We would like your feedback on the customer service representative you spoke with. Based on your overall experience with this representative, please rate their performance on each of the following:</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_support_q3a</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz q3a</shortDescription>
+        <value>Product knowledge</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_support_q3b</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz q3b</shortDescription>
+        <value>Responsiveness</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_support_q3c</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz q3c</shortDescription>
+        <value>Professionalism</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_support_q3d</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz q3d</shortDescription>
+        <value>Ownership of issue</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_support_q4</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz q4</shortDescription>
+        <value>Did Verizon Connect send a technician to your site to resolve the issue?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_support_q5</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz q5</shortDescription>
+        <value>Please indicate your level of agreement with the following statements.</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_support_q5a</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz q5a</shortDescription>
+        <value>The service visit scheduling met my needs.</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_support_q5b</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz q5b</shortDescription>
+        <value>The technician arrived at the scheduled time.</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_support_q5c</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz q5c</shortDescription>
+        <value>The technician was professional.</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_support_q5d</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz q5d</shortDescription>
+        <value>The technician left the vehicle clean and in working condition.</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_support_q6</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz q6</shortDescription>
+        <value>Please provide any additional comments you might have regarding your recent customer service experience.</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_support_select</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz q1 select</shortDescription>
+        <value>(Select the rating scale point that best describes how you feel.)</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_support_title</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz support title</shortDescription>
+        <value>Customer Support Survey</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_tr_1a</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz tr 1a</shortDescription>
+        <value>Which of the following areas could the Training representative have done better in?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_tr_1b</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz tr 1b</shortDescription>
+        <value>Please provide any additional feedback we may find insightful.</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_tr_1c</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz tr 1c</shortDescription>
+        <value>What was the best part of the Training representative’s session that lead you to give this rating?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_tr_2</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz tr 2</shortDescription>
+        <value>On a scale of 0-10, how satisfied were you with;</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_tr_2a</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz tr 2a</shortDescription>
+        <value>Signing up for your training session?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_tr_2b</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz tr 2b</shortDescription>
+        <value>Logging into your training session?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_tr_2c</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz tr 2c</shortDescription>
+        <value>Overall quality of your training session?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_tr_2d</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz tr 2d</shortDescription>
+        <value>How relevant the training content was to your business?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_tr_intro</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz tr intro</shortDescription>
+        <value>In an effort to improve our service to you, our customer, we&apos;d like to get your feedback on a few brief questions. These questions should take no more than 5 minutes, and your feedback is truly invaluable to our ability to serve you.</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_tr_q1</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz tr q1</shortDescription>
+        <value>How would you rate your overall satisfaction with the Training representative you spoke with?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_tr_select</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz tr select</shortDescription>
+        <value>(Please select all that apply.)</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_tr_title</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz tr title</shortDescription>
+        <value>Training Survey</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_wkcs_1a</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz wkcs 1a</shortDescription>
+        <value>Which of the following areas could the WORK Customer Support representative have done better in?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_wkcs_1c</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz wkcs 1c</shortDescription>
+        <value>What was the best part of the Customer Support representative&apos;s phone call that lead you to give this rating?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_wkcs_2a</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz wkcs 2a</shortDescription>
+        <value>The response time to your Customer Support inquiry?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_wkcs_2b</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz wkcs 2b</shortDescription>
+        <value>The process for getting your concerns resolved?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_wkcs_3</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz wkcs 3</shortDescription>
+        <value>On a scale of 0-10, how satisfied are you with the resolution provided?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_wkcs_intro</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz wkcs intro</shortDescription>
+        <value>We&apos;d like your feedback pertaining to the customer service case you recently opened with us. Please complete this brief survey. Your feedback is truly invaluable in our ability to serve you.</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_wkcs_q1</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz wkcs q1</shortDescription>
+        <value>How would you rate your overall satisfaction with the WORK Customer Support representative you spoke with?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_wkcs_title</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz wkcs title</shortDescription>
+        <value>WORK Customer Support Survey</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_wktr_1a</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz wktr 1a</shortDescription>
+        <value>Which of the following areas could the WORK Implementation Specialist have done better in?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_wktr_1c</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz wktr 1c</shortDescription>
+        <value>What was the best part of the WORK Implementation Specialist&apos;s session that lead you to give this rating?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_wktr_2a</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz wktr 2a</shortDescription>
+        <value>Scheduling a date/time that worked for you and your business for the introduction call?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_wktr_2b</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz wktr 2b</shortDescription>
+        <value>Time from signing your agreement to completing Implementation?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_wktr_2c</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz wktr 2c</shortDescription>
+        <value>How relevant the content covered was to your business?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_wktr_2d</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz wktr 2d</shortDescription>
+        <value>The overall quality of your WORK Implementation?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_wktr_3</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz wktr 3</shortDescription>
+        <value>On a scale of 0-10, how satisfied are you with the WORK product?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_wktr_email_p1</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz wktr email p1</shortDescription>
+        <value>As a valued customer, we would like to know more about your experience during the implementation process. Your input and feedback will provide us with valuable information that will help us improve our products and services.</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_wktr_email_p2</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz wktr email p2</shortDescription>
+        <value>The survey will take approximately 3 minutes to complete depending on your answers to the questions.</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_wktr_email_p3</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz wktr email p3</shortDescription>
+        <value>To access the survey, click on the following link:</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_wktr_email_p4</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz wktr email p4</shortDescription>
+        <value>This link is uniquely tied to this survey and your email address. Please do not forward this message.</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_wktr_email_p5</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz wktr email p5</shortDescription>
+        <value>Thank you again for being a valued Verizon Connect Customer!</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_wktr_intro</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz wktr intro</shortDescription>
+        <value>In an effort to improve our service to you, our customer, we&apos;d like to get your feedback on a few brief questions. These questions should take no more than 5 minutes, and your feedback is truly invaluable to our ability to serve you.</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_wktr_q1</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz wktr q1</shortDescription>
+        <value>How would you rate your overall satisfaction with the WORK Implementation Specialist you spoke with?</value>
+    </labels>
+    <labels>
+        <fullName>survey_vz_wktr_title</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey vz wktr title</shortDescription>
+        <value>WORK Satisfaction Survey</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_case_owner</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs case owner</shortDescription>
+        <value>Case Owner:</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_date</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs date</shortDescription>
+        <value>Date Opened:</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_email_inquiry</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs email inquiry</shortDescription>
+        <value>Inquiry:</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_email_p1</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs email p1</shortDescription>
+        <value>As part of our ongoing desire to continuously improve our customer care services, we welcome you to take a moment to fill out</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_email_p1a</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs email p1a</shortDescription>
+        <value>At Verizon Connect WORK, satisfying our customers is essential to how we do things. Therefore, we are asking for your feedback about your recent interaction with our Customer Service team. Your feedback is a</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_email_p1b</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs email p1b</shortDescription>
+        <value>and tell us how we did today in helping you with the below inquiry:</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_email_p2</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs email p2</shortDescription>
+        <value>Thank you in advance for taking time out of your day to help improve and motivate our team.</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_email_p3</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs email p3</shortDescription>
+        <value>Please take a moment to share your recent experience with us. The survey will take less than 2 minutes to complete. Here is a link to the survey:</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_email_r1_p1</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs email r1 p2</shortDescription>
+        <value>We noticed that you had not yet had a chance to complete</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_email_r1_p1b</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs email r1 p1b</shortDescription>
+        <value>about your experience with our WORK Customer Care team. If you have a moment and would still like to we would love to hear your thoughts on your experience with our customer care team.</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_email_r2_p1</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs email r2 p2</shortDescription>
+        <value>This is the second of three reminders asking you to complete our Verizon Connect WORK Customer Care Survey.</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_email_r2_p2</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs email r2 p2</shortDescription>
+        <value>Please complete this survey at your earliest convenience. Ultimately, this is a BIG part of our team’s compensation structure so it’s absolutely critical that you complete it at your earliest convenience.</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_email_r3_p1</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs email r3 p1</shortDescription>
+        <value>This is our last friendly  reminder asking you to complete our Verizon Connect WORK Customer Care Survey.</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_email_r3_p2</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs email r3 p2</shortDescription>
+        <value>Please complete this survey at your earliest convenience. Ultimately, this is a BIG part of our team&apos;s compensation structure so it’s absolutely critical that you complete it at your earliest convenience.</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_email_signature</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs email signature</shortDescription>
+        <value>Global Customer Care Manager</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_email_subj</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs email subj</shortDescription>
+        <value>Verizon Connect WORK Customer Service Survey</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_email_team</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs email team</shortDescription>
+        <value>The Verizon Connect WORK Customer Service Team</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_email_thanks</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs email thanks</shortDescription>
+        <value>Thank you for choosing Verizon Connect, we look forward to helping you again in the future!</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_inquiry</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs inquiry</shortDescription>
+        <value>Reason for the case:</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_intro</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs intro</shortDescription>
+        <value>This survey pertains to the customer service case {0} you have recently submitted to us.</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_q1</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs q1</shortDescription>
+        <value>Do you consider the issue resolved?</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_q2</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs q2</shortDescription>
+        <value>Please rate your satisfaction with the following aspects of your customer service case.</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_q2a</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs q2a</shortDescription>
+        <value>Overall experience</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_q2b</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs q2b</shortDescription>
+        <value>Issue resolution</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_q2c</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs q2c</shortDescription>
+        <value>Knowledge of Customer Service Personnel</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_q2d</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs q2d</shortDescription>
+        <value>Responsiveness of Customer Service Personnel</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_q3</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs q3</shortDescription>
+        <value>Please provide any additional comments regarding your recently closed case.</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_q4</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs q4</shortDescription>
+        <value>How likely is it that you would recommend Verizon Connect to a friend or colleague?</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_q4_r0</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs q4 r0</shortDescription>
+        <value>Not at All&lt;br/&gt;Likely&lt;br/&gt;0</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_q4_r1</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs q4 r1</shortDescription>
+        <value>1</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_q4_r10</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs q4 r10</shortDescription>
+        <value>Extremely&lt;br/&gt;Likely&lt;br/&gt;10</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_r0</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs r0</shortDescription>
+        <value>Don&apos;t&lt;br/&gt;Know / No&lt;br/&gt;Opinion</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_r1</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs r1</shortDescription>
+        <value>Not at All&lt;br/&gt;Satisfied&lt;br/&gt;1</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_r10</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs r10</shortDescription>
+        <value>Highly&lt;br/&gt;Satisfied&lt;br/&gt;10</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_r2</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs r2</shortDescription>
+        <value>2</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_r3</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs r3</shortDescription>
+        <value>3</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_r4</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs r4</shortDescription>
+        <value>4</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_r5</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs r5</shortDescription>
+        <value>5</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_r6</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs r6</shortDescription>
+        <value>6</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_r7</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs r7</shortDescription>
+        <value>7</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_r8</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs r8</shortDescription>
+        <value>8</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_r9</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs r9</shortDescription>
+        <value>9</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_cs_title</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs title</shortDescription>
+        <value>Verizon Connect WORK Customer Care Resolution Survey</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_email_p1</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk email p1</shortDescription>
+        <value>As part of our ongoing desire to get better at what we do, we are conducting a survey regarding the experience you had with the trainer assigned to your Verizon Connect WORK deployment project. Your feedback is very important to us in our efforts to continuously improve our offering and services.</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_email_p2</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk email p2</shortDescription>
+        <value>Specifically, the feedback is used as both a coaching tool (if needed) as well as a way to recognize and financially reward positive performance.</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_email_p3</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk email p3</shortDescription>
+        <value>The survey should take you less than two minutes. Your additional comments are greatly appreciated.</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_email_p4</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk email p4</shortDescription>
+        <value>Should you have any questions or difficulty completing this survey, please reach out to your project leader for assistance.</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_email_p5</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs email p5</shortDescription>
+        <value>At Verizon Connect WORK, satisfying our customers is essential to how we do things. Therefore, we are asking for your feedback about your recent interaction with our Implementation and Training team. Your feedback is a very important part of our continuous improvement initiative.</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_email_rs1_p1</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs email rs p1</shortDescription>
+        <value>We apologize. It appears that the survey link we sent earlier was not fully functional. It has been corrected and is now fully operational. We hope to hear from you.</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_email_rs2_p1</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk email rs2 p1</shortDescription>
+        <value>This is a friendly reminder asking you to complete the Verizon Connect WORK Implementation and Training survey (link below) at your earliest convenience. Your feedback is extremely important and greatly appreciated!</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_email_rs3_p1a</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk email rs3 p1a</shortDescription>
+        <value>This is the second of three reminders asking you to complete our Verizon Connect WORK Trainer evaluation survey. Ultimately, this is a BIG part of</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_email_rs3_p1b</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk email rs3 p1b</shortDescription>
+        <value>’s compensation structure so it’s absolutely critical that you complete it at your earliest convenience.</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_email_signature</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk email signature</shortDescription>
+        <value>Director, Global Implementation and Training</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_email_subj</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk email subj</shortDescription>
+        <value>Verizon Connect WORK Implementation and Training Survey</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_email_team</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey cs email team</shortDescription>
+        <value>The Verizon Connect WORK Implementation and Training Team</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_email_thanks</fullName>
+        <categories>Email</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk cs email thanks</shortDescription>
+        <value>Thanks in advance for your participation!</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_hdg</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk heading</shortDescription>
+        <value>Trainer related questions</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_intro</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk intro</shortDescription>
+        <value>The purpose of this survey is to evaluate your overall experience with the Implementation and Training of your Verizon Connect WORK product.</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_q1</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk q1</shortDescription>
+        <value>Please rate your satisfaction with the following aspects of your Verizon Connect WORK Implementation and Training experience.</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_q1a</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk q1a</shortDescription>
+        <value>Overall Implementation and Training experience</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_q1b</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk q1b</shortDescription>
+        <value>How would you rate your trainer’s knowledge of the product?</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_q1c</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk q1c</shortDescription>
+        <value>How would you rate your trainer’s understanding of your needs?</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_q1d</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk q1d</shortDescription>
+        <value>Overall, how would rate your satisfaction with your trainer?</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_q1e</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk q1e</shortDescription>
+        <value>Availability of training</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_q1f</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk q1f</shortDescription>
+        <value>Ease to implement</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_q1g</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk q1g</shortDescription>
+        <value>Time to implement your product</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_q1h</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk q1h</shortDescription>
+        <value>Given the opportunity, would you recommend your trainer to a friend?</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_q1i</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk q1i</shortDescription>
+        <value>Based on your training, do you feel ready to use the solution on a daily basis?</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_q2</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk q2</shortDescription>
+        <value>What could we have done better?</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_q3</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk q3</shortDescription>
+        <value>What did we do well?</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_q4</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk q4</shortDescription>
+        <value>Please provide any additional comments you might have.</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_r0</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk r0</shortDescription>
+        <value>Don&apos;t&lt;br/&gt;Know / No&lt;br/&gt;Opinion</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_r1</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk r1</shortDescription>
+        <value>Not at All&lt;br/&gt;Satisfied&lt;br/&gt;1</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_r2</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk r2</shortDescription>
+        <value>2</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_r3</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk r3</shortDescription>
+        <value>3</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_r4</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk r4</shortDescription>
+        <value>4</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_r5</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk r5</shortDescription>
+        <value>Highly&lt;br/&gt;Satisfied&lt;br/&gt;5</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_rad5</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk rad5</shortDescription>
+        <value>Highly Satisfied&lt;br/&gt;5</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_title</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk title</shortDescription>
+        <value>WORK Satisfaction Survey</value>
+    </labels>
+    <labels>
+        <fullName>survey_wk_ty</fullName>
+        <categories>Pages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>survey wk ty</shortDescription>
+        <value>Thank you for completing the survey. Your feedback is greatly appreciated.</value>
+    </labels>
+</CustomLabels>

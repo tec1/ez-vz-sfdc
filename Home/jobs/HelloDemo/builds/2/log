@@ -1,0 +1,12 @@
+Started by user [8mha:////4G1chVTFUXH+4bqnm/1NEmLLlUtrJT1393X+Am27ddSVAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzBEgYu/dLi1CL91KLMZACPesQ8vwAAAA==[0mEric Christiansen
+Running as SYSTEM
+Building in workspace /Users/Shared/Jenkins/Home/workspace/HelloDemo
+[HelloDemo] $ /bin/sh -xe /Users/Shared/Jenkins/tmp/jenkins11783310087427503876.sh
++ cd /Users/eric/Development/GitHub/demo1/src
++ javac Hello.java
+Hello.java:1: error: error while writing Hello: /Users/eric/Development/GitHub/demo1/src/Hello.class
+public class Hello {
+       ^
+1 error
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

@@ -1,0 +1,11 @@
+Started by user [8mha:////4G1chVTFUXH+4bqnm/1NEmLLlUtrJT1393X+Am27ddSVAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzBEgYu/dLi1CL91KLMZACPesQ8vwAAAA==[0mEric Christiansen
+Running as SYSTEM
+Building in workspace /Users/Shared/Jenkins/Home/workspace/HelloDemo
+[HelloDemo] $ /bin/sh -xe /Users/Shared/Jenkins/tmp/jenkins4759891277104195276.sh
++ cd /Users/eric/Development/GitHub/demo1
++ javac Hello.java
+error: file not found: Hello.java
+Usage: javac <options> <source files>
+use --help for a list of possible options
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

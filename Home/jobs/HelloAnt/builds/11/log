@@ -1,0 +1,13 @@
+Started by user [8mha:////4G1chVTFUXH+4bqnm/1NEmLLlUtrJT1393X+Am27ddSVAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzBEgYu/dLi1CL91KLMZACPesQ8vwAAAA==[0mEric Christiansen
+Running as SYSTEM
+Building in workspace /Users/Shared/Jenkins/Home/workspace/HelloAnt
+Unpacking https://archive.apache.org/dist/ant/binaries/apache-ant-1.10.8-bin.zip to /Users/Shared/Jenkins/Home/tools/hudson.tasks.Ant_AntInstallation/My_Ant on Jenkins
+[HelloAnt] $ /Users/Shared/Jenkins/Home/tools/hudson.tasks.Ant_AntInstallation/My_Ant/bin/ant
+Buildfile: /Users/Shared/Jenkins/Home/workspace/HelloAnt/build.xml
+
+[8mha:////4KPLjNqe4D06By8v68OWK43z+bw6oUmEfj1uFqLUQyLMAAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m[8mha:////4KPLjNqe4D06By8v68OWK43z+bw6oUmEfj1uFqLUQyLMAAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0minfo:
+     [echo] Hello Ant
+
+[8mha:////4KxkfZwEMe9sqTzUTgb1mYfDWyUhDRNi8suVFLM0fKrrAAAAYB+LCAAAAAAAAP9b85aBtbiIQSGjNKU4P0+vJLE4u1gvPjGvRM8xr8S/tCQ5PzfVL78ktUuDM0uMry+HiYGhoohBCqo8OT+vOD8nVc8ZQoMUMkAAI0hhAQAUXUdTXgAAAA==[0mBUILD SUCCESSFUL
+Total time: 0 seconds
+Finished: SUCCESS

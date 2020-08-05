@@ -1,0 +1,45 @@
+Started by an SCM change
+Running as SYSTEM
+Building in workspace /Users/Shared/Jenkins/Home/workspace/HelloDemo
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/tec1/ez-vz-sfdc.git
+ > git init /Users/Shared/Jenkins/Home/workspace/HelloDemo # timeout=10
+Fetching upstream changes from https://github.com/tec1/ez-vz-sfdc.git
+ > git --version # timeout=10
+ > git fetch --tags --force --progress -- https://github.com/tec1/ez-vz-sfdc.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/tec1/ez-vz-sfdc.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/tec1/ez-vz-sfdc.git # timeout=10
+Fetching upstream changes from https://github.com/tec1/ez-vz-sfdc.git
+ > git fetch --tags --force --progress -- https://github.com/tec1/ez-vz-sfdc.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision 37a210036fa594c18ece271498cd91402a79a27c (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 37a210036fa594c18ece271498cd91402a79a27c # timeout=10
+Commit message: "Initial commit."
+First time build. Skipping changelog.
+[HelloDemo] $ /bin/sh -xe /Users/Shared/Jenkins/tmp/jenkins17770075202332072346.sh
++ cd /Users/eric/Development/GitHub/demo1/src
++ ls -la com/vz
+total 16
+drwxrwxrwx  4 eric     staff  128 Aug  2 23:57 .
+drwxrwxrwx  3 eric     staff   96 Aug  2 23:45 ..
+-rw-r--r--  1 jenkins  staff  414 Aug  2 23:57 Hello.class
+-rw-r--r--  1 eric     staff  128 Aug  2 23:44 Hello.java
++ rm com/vz/Hello.class
++ cat com/vz/Hello.java
+package com.vz;
+
+public class Hello {
+    public static void main (String[] args) {
+        System.out.println ("Hi.");
+    }
+}
++ which javac
+/usr/bin/javac
++ javac com/vz/Hello.java
++ java com/vz/Hello
+Hi.
+Finished: SUCCESS

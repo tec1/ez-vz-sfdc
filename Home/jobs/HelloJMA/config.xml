@@ -1,0 +1,27 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<project>
+  <actions/>
+  <description></description>
+  <keepDependencies>false</keepDependencies>
+  <properties/>
+  <scm class="hudson.scm.NullSCM"/>
+  <canRoam>true</canRoam>
+  <disabled>false</disabled>
+  <blockBuildWhenDownstreamBuilding>false</blockBuildWhenDownstreamBuilding>
+  <blockBuildWhenUpstreamBuilding>false</blockBuildWhenUpstreamBuilding>
+  <triggers/>
+  <concurrentBuild>false</concurrentBuild>
+  <builders>
+    <org.jenkinsci.plugins.sma.SMABuilder plugin="salesforce-migration-assistant-plugin@2.2.2">
+      <validateEnabled>false</validateEnabled>
+      <username>eric.christiansen@verizonconnect.com.ericdev</username>
+      <password>Crabby-tired55</password>
+      <securityToken>xcYVem8Sp7z7XGQ5ffet5FzX</securityToken>
+      <serverType>https://test.salesforce.com</serverType>
+      <testLevel>NoTestRun</testLevel>
+      <prTargetBranch>demo-master</prTargetBranch>
+    </org.jenkinsci.plugins.sma.SMABuilder>
+  </builders>
+  <publishers/>
+  <buildWrappers/>
+</project>

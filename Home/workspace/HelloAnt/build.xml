@@ -1,0 +1,9 @@
+<project name="MyProject" default="info">
+
+  <property name="home"  value="${env.HOME}"/>
+
+  <target name="info">
+    <echo>Hello Ant</echo>
+    <echo>${home}2</echo>
+  </target>
+</project>
